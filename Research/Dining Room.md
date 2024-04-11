@@ -11,5 +11,20 @@ There are 4 area in the room that requires an upgrade: by the door, by the sewin
 
 ## Floor Socket Close to the Wall with Mirror
 
+Type: Standard
+![IMG_1487](https://github.com/United-Home/125-Frederick/assets/61100293/42f8bedf-9dd6-4006-9547-19a8ab235eab)
+
+After Test:
+![IMG_1488](https://github.com/United-Home/125-Frederick/assets/61100293/32fa228c-c79c-4671-baf9-db2a329eec82)
+
+
+#### Status: Completed
+
+## Wall Socket Under Mirror
+Type: Standard
+Before Test: 
+![IMG_1491](https://github.com/United-Home/125-Frederick/assets/61100293/2cddf6af-bff6-4f44-aab1-67d64c093dbf)
+
+
 
 
