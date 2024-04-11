@@ -34,7 +34,15 @@ Initial Stage:
 #### Status: Completed
 
 ## Outlet Under Bed Rest
-#### Status: Not touched, hard to move bed
+Type: Standard
+![IMG_1493](https://github.com/United-Home/125-Frederick/assets/61100293/6857aa42-3c4d-4f9a-b80a-9d3443790c32)
+![IMG_1494](https://github.com/United-Home/125-Frederick/assets/61100293/911bbdc5-0242-4b5f-ac4e-e7bb91a9a20a)
+
+After Work Test: 
+![IMG_1495](https://github.com/United-Home/125-Frederick/assets/61100293/2fc97abc-dc74-4cc0-bb7e-a315ed516260)
+
+
+#### Status: Completed
 
 
 
