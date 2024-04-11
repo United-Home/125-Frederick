@@ -22,6 +22,7 @@ After Test:
 
 ## Wall Socket Under Mirror
 Type: Standard
+
 Before Test: 
 ![IMG_1491](https://github.com/United-Home/125-Frederick/assets/61100293/2cddf6af-bff6-4f44-aab1-67d64c093dbf)
 
