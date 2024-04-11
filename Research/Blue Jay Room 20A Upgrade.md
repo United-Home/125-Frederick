@@ -1,6 +1,6 @@
 ## Overview
 
-There are theee areas identified to have electrical sockets for this room. By the window facing Vinny's backyard, one under the TV, and another under the headrest of the bed.
+There are three areas identified to have electrical sockets for this room. By the window facing Vinny's backyard, one under the TV, and another under the headrest of the bed.
 
 ![IMG_1472](https://github.com/United-Home/125-Frederick/assets/61100293/6f4399cc-edec-4bbf-8ebd-83c555545832)
 ![IMG_1471](https://github.com/United-Home/125-Frederick/assets/61100293/b901ce29-0a7c-4fc2-8c16-dade0194e068)
