@@ -20,7 +20,7 @@ Panel Box Section:
 
 Opened and disconnected but during work found that this needs a 12 gauge wire. So connected the old outlet since there was no electrical tape found and checked if it is still in "correct wiring".
 ![IMG_1476](https://github.com/United-Home/125-Frederick/assets/61100293/20d5c01a-a29a-4ca8-b053-acb8227a17ad)
-#### Status: Incomplete, need 12 gauge wire, electrical tape
+#### Status: Touched, Incomplete, need 12 gauge wire, electrical tape
 
 
 ## Outlet Under TV
@@ -32,6 +32,9 @@ Initial Stage:
 ![IMG_1480](https://github.com/United-Home/125-Frederick/assets/61100293/0e24d0d0-ab19-4e45-80d0-b5b623317250)
 
 #### Status: Completed
+
+## Outlet Under Bed Rest
+#### Status: Not touched, hard to move bed
 
 
 
