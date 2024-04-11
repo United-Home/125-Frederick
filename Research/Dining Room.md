@@ -30,8 +30,29 @@ Type: Standard
 Before Test: 
 ![IMG_1491](https://github.com/United-Home/125-Frederick/assets/61100293/2cddf6af-bff6-4f44-aab1-67d64c093dbf)
 
-Panel Box
+Panel Box:
 ![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/3e8b960c-642d-4ed4-9540-274a055a530a)
+
+Initial State:
+![IMG_1498](https://github.com/United-Home/125-Frederick/assets/61100293/3e4a7dfa-975a-47b7-89bd-b20a519685c1)
+![IMG_1499](https://github.com/United-Home/125-Frederick/assets/61100293/0c0e67b4-514f-40b9-9a42-62c888e4ee67)
+![IMG_1500](https://github.com/United-Home/125-Frederick/assets/61100293/c53533ab-8be4-4417-b06b-f6fec52ff116)
+
+
+After Upgrade Test:
+![IMG_1501](https://github.com/United-Home/125-Frederick/assets/61100293/03251f30-5428-43b6-951a-e6abcc77f6cf)
+![IMG_1502](https://github.com/United-Home/125-Frederick/assets/61100293/1ce65f97-60ba-4b44-b47d-ba1b4b143124)
+
+
+#### Status: Completed
+
+## Under Sewing Machine Socket
+
+Type: Standard
+
+Panel Box:
+![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/7d2102c5-5a6c-492d-b078-641be4cd47e1)
+
 
 
 
