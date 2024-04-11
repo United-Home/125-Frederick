@@ -15,19 +15,29 @@ There are three areas identified to have electrical sockets for this room. By th
 
 ## Outlet Facing Vinny's Backyard:
 Type: Standard
+
 Panel Box Section:
 ![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/3ad97aeb-82c3-4229-a4be-e8d0a74d3664)
 
 Opened and disconnected but during work found that this needs a 12 gauge wire. So connected the old outlet since there was no electrical tape found and checked if it is still in "correct wiring".
 ![IMG_1476](https://github.com/United-Home/125-Frederick/assets/61100293/20d5c01a-a29a-4ca8-b053-acb8227a17ad)
+
 #### Status: Touched, Incomplete, need 12 gauge wire, electrical tape
 
 
 ## Outlet Under TV
 Type: Standard
-Tested: Open Ground
+
+Panel Box Section:
+![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/3ad97aeb-82c3-4229-a4be-e8d0a74d3664)
+
+Initial Test: Open Ground
+
 Initial Stage:
 ![IMG_1478](https://github.com/United-Home/125-Frederick/assets/61100293/52fdabf1-6ada-4b7f-a73b-fcb459fa82a9)
+
+
+After Upgrade:
 ![IMG_1479](https://github.com/United-Home/125-Frederick/assets/61100293/3d8d1e78-a76c-41bd-8038-adc9869dbc2a)
 ![IMG_1480](https://github.com/United-Home/125-Frederick/assets/61100293/0e24d0d0-ab19-4e45-80d0-b5b623317250)
 
@@ -35,10 +45,15 @@ Initial Stage:
 
 ## Outlet Under Bed Rest
 Type: Standard
+
+Panel Box Section:
+![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/3ad97aeb-82c3-4229-a4be-e8d0a74d3664)
+
+Initial Stage:
 ![IMG_1493](https://github.com/United-Home/125-Frederick/assets/61100293/6857aa42-3c4d-4f9a-b80a-9d3443790c32)
 ![IMG_1494](https://github.com/United-Home/125-Frederick/assets/61100293/911bbdc5-0242-4b5f-ac4e-e7bb91a9a20a)
 
-After Work Test: 
+After Upgrade Test: 
 ![IMG_1495](https://github.com/United-Home/125-Frederick/assets/61100293/2fc97abc-dc74-4cc0-bb7e-a315ed516260)
 
 
