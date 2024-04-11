@@ -25,8 +25,11 @@ Opened and disconnected but during work found that this needs a 12 gauge wire. S
 
 ## Outlet Under TV
 Type: Standard
+Tested: Open Ground
 Initial Stage:
 ![IMG_1478](https://github.com/United-Home/125-Frederick/assets/61100293/52fdabf1-6ada-4b7f-a73b-fcb459fa82a9)
+![IMG_1479](https://github.com/United-Home/125-Frederick/assets/61100293/3d8d1e78-a76c-41bd-8038-adc9869dbc2a)
+![IMG_1480](https://github.com/United-Home/125-Frederick/assets/61100293/0e24d0d0-ab19-4e45-80d0-b5b623317250)
 
 #### Status: Completed
 
