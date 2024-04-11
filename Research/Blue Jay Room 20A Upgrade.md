@@ -15,3 +15,6 @@ Type: Standard
 Panel Box Section:
 ![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/3ad97aeb-82c3-4229-a4be-e8d0a74d3664)
 
+Opened and disconnected but during work found that this needs a 12 gauge wire. So connected the old outlet since there was no electrical tape found and checked if it is still in "correct wiring".
+![IMG_1476](https://github.com/United-Home/125-Frederick/assets/61100293/20d5c01a-a29a-4ca8-b053-acb8227a17ad)
+
