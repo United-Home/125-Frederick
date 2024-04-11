@@ -14,6 +14,10 @@ There are 4 area in the room that requires an upgrade: by the door, by the sewin
 Type: Standard
 ![IMG_1487](https://github.com/United-Home/125-Frederick/assets/61100293/42f8bedf-9dd6-4006-9547-19a8ab235eab)
 
+Panel Box:
+![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/ccbb1780-f787-4cd7-8bf4-bb5c3f031d79)
+
+
 After Test:
 ![IMG_1488](https://github.com/United-Home/125-Frederick/assets/61100293/32fa228c-c79c-4671-baf9-db2a329eec82)
 
@@ -25,6 +29,10 @@ Type: Standard
 
 Before Test: 
 ![IMG_1491](https://github.com/United-Home/125-Frederick/assets/61100293/2cddf6af-bff6-4f44-aab1-67d64c093dbf)
+
+Panel Box
+![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/3e8b960c-642d-4ed4-9540-274a055a530a)
+
 
 
 
