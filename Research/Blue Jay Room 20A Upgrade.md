@@ -9,3 +9,9 @@
 
 
 There are theee areas identified to have electrical sockets for this room. By the window facing Vinny's backyard, one under the TV, and another under the headrest of the bed.
+
+Outlet Facing Vinny's Backyard:
+Type: Standard
+Panel Box Section:
+![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/3ad97aeb-82c3-4229-a4be-e8d0a74d3664)
+
