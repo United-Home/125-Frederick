@@ -16,5 +16,7 @@ After:
 ![IMG_1513](https://github.com/United-Home/125-Frederick/assets/61100293/b3a0cd8c-3d7a-4fef-83ce-c0036d15d6b8)
 ![IMG_1512](https://github.com/United-Home/125-Frederick/assets/61100293/f997213c-6d1f-49ac-9e83-7bf6e74cb8ca)
 ![IMG_1514](https://github.com/United-Home/125-Frederick/assets/61100293/76c91347-645f-4f56-ad53-f4aa39b64114)
+![IMG_1516](https://github.com/United-Home/125-Frederick/assets/61100293/7dfc4f26-2659-4ca6-8843-9a6359cc8d75)
+
 
 #### Status: Completed
