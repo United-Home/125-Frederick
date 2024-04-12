@@ -64,5 +64,17 @@ Test After Upgrade:
 
 #### Status: Incomplete, Need Face plate
 
+## Socket By the Door
 
+Type: Standard
 
+Panel Box:
+![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/9f5188e4-62ba-45fb-86b4-3f3a14f8c356)
+
+![IMG_1506](https://github.com/United-Home/125-Frederick/assets/61100293/d53df88e-3329-4e2e-846d-c856c4de0906)
+![IMG_1505](https://github.com/United-Home/125-Frederick/assets/61100293/b326a6d2-7395-48a2-a1d7-0ae0e4e87de2)
+
+After Upgrade:
+![IMG_1507](https://github.com/United-Home/125-Frederick/assets/61100293/d04ca9bf-32dc-4a97-82e2-87f9189c8d46)
+
+#### Status: Complete
