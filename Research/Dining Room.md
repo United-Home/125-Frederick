@@ -50,6 +50,12 @@ After Upgrade Test:
 
 Type: Standard
 
+Before Upgrade:
+![IMG_1504](https://github.com/United-Home/125-Frederick/assets/61100293/1f54bdc1-f28f-4d59-899d-0bb746dec843)
+
+![IMG_1505](https://github.com/United-Home/125-Frederick/assets/61100293/f8241504-32d7-4372-80fa-109576b3a37f)
+
+
 Panel Box:
 ![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/7d2102c5-5a6c-492d-b078-641be4cd47e1)
 
