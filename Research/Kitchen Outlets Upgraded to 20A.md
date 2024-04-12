@@ -20,3 +20,16 @@ After:
 
 
 #### Status: Completed
+
+## Outlet Behind Blender
+
+Type: GFCI
+
+Panel Box: ![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/a013acca-afdd-4752-a664-248ce66db947)
+
+![IMG_1517](https://github.com/United-Home/125-Frederick/assets/61100293/099ca601-ae66-4ffa-adef-0f0f7fe96765)
+![IMG_1520](https://github.com/United-Home/125-Frederick/assets/61100293/4d8719cc-4761-409b-8cdf-353c299db118)
+![IMG_1519](https://github.com/United-Home/125-Frederick/assets/61100293/897276f0-256b-4d18-ad0b-bd82ea2c6778)
+![IMG_1518](https://github.com/United-Home/125-Frederick/assets/61100293/8daff278-5e07-4f19-8da6-86d3781dd306)
+
+#### Status: Completed
