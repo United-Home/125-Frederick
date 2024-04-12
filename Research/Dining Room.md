@@ -59,8 +59,10 @@ Before Upgrade:
 Panel Box:
 ![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/7d2102c5-5a6c-492d-b078-641be4cd47e1)
 
+Test After Upgrade:
+![IMG_1505](https://github.com/United-Home/125-Frederick/assets/61100293/33471d76-4060-45bd-99b0-2a04e28c40de)
 
-
+#### Status: Incomplete, Need Face plate
 
 
 
