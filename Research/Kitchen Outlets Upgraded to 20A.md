@@ -7,3 +7,14 @@
 
 Panel Box:
 ![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/73bda54f-c50c-46b1-ab1c-555020423648)
+
+State: It was pushedSince there were not much allowance on the wires, it took time to curl them in. Other photo,
+![IMG_1511](https://github.com/United-Home/125-Frederick/assets/61100293/24b8964a-b18b-47a7-a984-f0f2646021b0)
+
+
+After:
+![IMG_1513](https://github.com/United-Home/125-Frederick/assets/61100293/b3a0cd8c-3d7a-4fef-83ce-c0036d15d6b8)
+![IMG_1512](https://github.com/United-Home/125-Frederick/assets/61100293/f997213c-6d1f-49ac-9e83-7bf6e74cb8ca)
+![IMG_1514](https://github.com/United-Home/125-Frederick/assets/61100293/76c91347-645f-4f56-ad53-f4aa39b64114)
+
+#### Status: Completed
