@@ -39,11 +39,25 @@ Panel Box: ![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100
 Type: GFCI
 ![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/2974ef0d-bb2c-4fe1-bc82-6e0a6f8b11c4)
 
+Panel Box:
+![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/23aeaf11-76b6-4193-b464-3e699d65bccd)
+
 
 ![IMG_1522](https://github.com/United-Home/125-Frederick/assets/61100293/7a0eb49b-3435-4376-a68a-62f5c63e02ae)
 ![IMG_1527](https://github.com/United-Home/125-Frederick/assets/61100293/1b347904-f0e6-40ea-ab1a-c937dd75ca2e)
 ![IMG_1523](https://github.com/United-Home/125-Frederick/assets/61100293/5fe89531-25fb-4012-b1c1-3fc596150dc7)
 
 ![IMG_1529](https://github.com/United-Home/125-Frederick/assets/61100293/b6cd2e29-f0ba-4339-a145-24e92d0e20f4)
+
+#### Status: Completed
+
+## By the Sink
+
+Type: GFCI
+![IMG_1530](https://github.com/United-Home/125-Frederick/assets/61100293/199babeb-2b96-4c00-952c-d6ab8ccc32f5)
+
+![IMG_1532](https://github.com/United-Home/125-Frederick/assets/61100293/c80a2cc9-14f8-4182-ba69-02ad42a02b67)
+![IMG_1533](https://github.com/United-Home/125-Frederick/assets/61100293/99850546-4597-42b3-8ee1-8da3e68437c8)
+
 
 #### Status: Completed
