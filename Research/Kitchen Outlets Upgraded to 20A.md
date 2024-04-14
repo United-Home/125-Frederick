@@ -37,6 +37,8 @@ Panel Box: ![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100
 ## By the Oven
 
 Type: GFCI
+![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/2974ef0d-bb2c-4fe1-bc82-6e0a6f8b11c4)
+
 
 ![IMG_1522](https://github.com/United-Home/125-Frederick/assets/61100293/7a0eb49b-3435-4376-a68a-62f5c63e02ae)
 ![IMG_1527](https://github.com/United-Home/125-Frederick/assets/61100293/1b347904-f0e6-40ea-ab1a-c937dd75ca2e)
