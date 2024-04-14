@@ -61,3 +61,16 @@ Type: GFCI
 
 
 #### Status: Completed
+
+## Fridge Socket
+
+Type: Standard
+
+![IMG_1474](https://github.com/United-Home/125-Frederick/assets/61100293/7519c006-848e-463a-9b47-61b3dba2cf6b)
+
+![IMG_1535](https://github.com/United-Home/125-Frederick/assets/61100293/acccaa07-849e-4bbb-a0ae-e545b75e6a2d)
+![IMG_1534](https://github.com/United-Home/125-Frederick/assets/61100293/a81be301-1bf1-4e1e-9177-ef52a2820c98)
+
+
+#### Completed
+
