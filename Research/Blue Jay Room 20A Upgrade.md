@@ -22,8 +22,13 @@ Panel Box Section:
 Opened and disconnected but during work found that this needs a 12 gauge wire. So connected the old outlet since there was no electrical tape found and checked if it is still in "correct wiring".
 ![IMG_1476](https://github.com/United-Home/125-Frederick/assets/61100293/20d5c01a-a29a-4ca8-b053-acb8227a17ad)
 
-#### Status: Touched, Incomplete, need 12 gauge wire, electrical tape
+![IMG_1547](https://github.com/United-Home/125-Frederick/assets/61100293/51eef3f2-58c5-4f64-b9aa-7bca0deafec5)
+![IMG_1545](https://github.com/United-Home/125-Frederick/assets/61100293/d0969728-0e9b-4a37-be5b-9516375ccaa5)
+![IMG_1546](https://github.com/United-Home/125-Frederick/assets/61100293/7294cd71-503f-4b05-a266-8f806088afe0)
+![IMG_1544](https://github.com/United-Home/125-Frederick/assets/61100293/a320e20e-d634-4ad6-83f3-77bade3dd758)
 
+
+#### Status: Completed
 
 ## Outlet Under TV
 Type: Standard
